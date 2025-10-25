@@ -1,2 +1,2 @@
-# BloxdBlockly-WIKI
-A wiki on how to use BloxdBlockly.
+# Bloxd Blockly
+Reimagining bloxd coding, a easy way!
